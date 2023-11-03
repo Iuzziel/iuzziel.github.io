@@ -1,0 +1,12 @@
+{
+    "key": {
+        "fr": "Acceuil",
+        "en": "Home"
+    },
+    "data": {
+        "title": {
+            "fr": "Bonjour monde",
+            "en": "Hello world"
+        }
+    }
+}

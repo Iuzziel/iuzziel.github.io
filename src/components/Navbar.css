@@ -1,0 +1,36 @@
+/* Add a black background color to the top navigation */
+.navbar {
+    background-color: var(--background-primary);
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    color: var(--primary);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background-color: var(--background-secondary);
+    color: var(--secondary);
+    animation-name: bg-p-to-s;
+    animation-duration: 1s;
+}
+
+.navbar a.active {
+    background-color: var(--background-secondary);
+    color: var(--ternary);
+}
+
+@keyframes bg-p-to-s {
+    from {
+        background-color: var(--background-primary)
+    }
+
+    to {
+        background-color: var(--background-secondary);
+    }
+}

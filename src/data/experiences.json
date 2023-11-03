@@ -1,0 +1,106 @@
+{
+  "key": {
+    "fr": "Expériences",
+    "en": "Experiences"
+  },
+  "data": [
+    {
+      "position": {
+        "fr": "Développeur Full Stack"
+      },
+      "company": {
+        "fr": "MAPAL Group"
+      },
+      "from": "2019-11",
+      "to": null,
+      "description": {
+        "fr": "Participer à la conception et au développement d'un ERP en SAAS web (partie front et back). Ainsi que maintient en condition opérationnelle de cette même application."
+      },
+      "technologies": [
+        "GitLab",
+        "JavaScript",
+        "Linux",
+        "Node.js",
+        "Postgres",
+        "Redis",
+        "TypeScript",
+        "Ubuntu",
+        "Vue.js",
+        "WebSocket"
+      ],
+      "skills": {
+        "fr": [
+          "Programmation en binôme"
+        ]
+      }
+    },
+    {
+      "position": {
+        "fr": "Concepteur développeur"
+      },
+      "company": {
+        "fr": "Econocom"
+      },
+      "from": "2018-02",
+      "to": "2019-11",
+      "description": {
+        "fr": "Participer à la conception et au développement d'applications web (partie front et back). Développement d'une application de supervision de système d'information. Ainsi que maintient en condition opérationnelle d'applications matures."
+      },
+      "technologies": [
+        "Angular",
+        "Apache",
+        "CentOS7",
+        "GitLab",
+        "Java",
+        "MySQL",
+        "NginX",
+        "Node.js",
+        "OpenLDAP",
+        "Oracle Database",
+        "Perl",
+        "PHP",
+        "Python 3.5+",
+        "RabbitMQ",
+        "Redis",
+        "RHEL6,7",
+        "Solaris",
+        "Splunk",
+        "Symfony",
+        "Tomcat",
+        "TypeScript",
+        "WebSocket"
+      ],
+      "skills": {
+        "fr": [
+          "Programmation en binôme"
+        ]
+      }
+    },
+    {
+      "position": {
+        "fr": "Développeur Full Stack"
+      },
+      "company": {
+        "fr": "Tereos"
+      },
+      "from": "2017-11",
+      "to": "2018-02",
+      "description": {
+        "fr": "Concepteur, développeur, et intégrateur d'une application client serveur de reporting et de monitoring de production industrielle."
+      },
+      "technologies": [
+        "Apache",
+        "Java",
+        "MySQL",
+        "Tomcat",
+        "VBS",
+        "Windows Server 2008"
+      ],
+      "skills": {
+        "fr": [
+          "Programmation en binôme"
+        ]
+      }
+    }
+  ]
+}
